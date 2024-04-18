@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card1 {
+    height: 30vh;
+    background-size: cover;
+    font-family: "Roboto";
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 10px;
+
+}
+
+.card2 {
+    height: 25vh;
+    width: 150px;
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+
+.image {
+    height: 15vh;
+
+
+}
+
+.paragraph {
+    padding: 5px;
+    margin: 5px;
+    color: #151765;
+    font-style: Bold;
+    font-size: 14px;
+    text-align: center;
+}
+
+.paragraph2 {
+    padding: 0px;
+    margin: 5px;
+    color: #5a7184;
+    font-style: Bold;
+    font-size: 14px;
+    text-align: center;
+}
+
+.card11 {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.image1 {
+    height: 25vh;
+    margin: 10px;
+    padding: 10px;
+}
+
+.paragraph11 {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Roboto";
+    padding: 10px;
+    margin: 1px;
+}
+
+.heading11 {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "Roboto";
+
+}
+
+.card12 {
+    background-color: #151765;
+    height: 30vh;
+}
+
+.card13 {
+    background-color: #ffffff;
+    height: 25vh;
+
+}
+
+.paragraph123 {
+    padding: 12px;
+    margin: 8px;
+    color: #151765;
+    font-style: Bold;
+    font-size: 14px;
+
+}
+
+.paragraph21 {
+    padding: 0px;
+    margin: 5px;
+    color: #5a7184;
+    font-style: Bold;
+    font-size: 14px;
+
+}
+
+.paragraph13 {
+    font-size: 10px;
+    font-family: "Roboto";
+    color: #151765;
+}
+
+.button {
+    background-color: #151765;
+    border-radius: 12px;
+    border-width: 0px;
+    color: #ffffff;
+    padding: 4px;
+    margin: 20px;
+}
